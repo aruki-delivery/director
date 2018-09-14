@@ -1,4 +1,4 @@
-REBAR = $(CURDIR)/rebar3
+REBAR = `which rebar3`
 BUILD_PATH := _build
 LIB_PATH := $(BUILD_PATH)/default/lib
 

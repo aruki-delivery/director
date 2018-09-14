@@ -1,2 +1,6 @@
-# Ignore rebar3 build directory
-/_build/
+# Ignore rebar build directory
+_build/
+.idea
+logs/
+test/.idea
+*.beam
